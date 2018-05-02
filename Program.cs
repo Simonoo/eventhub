@@ -25,7 +25,7 @@
 
             eventHubClient = EventHubClient.CreateFromConnectionString(connectionStringBuilder.ToString());
 
-            await SendMessagesToEventHub(10);
+            await SendMessagesToEventHub(20);
 
             await eventHubClient.CloseAsync();
 
