@@ -1,0 +1,10 @@
+C:\code\eventhub\bin\Debug\netcoreapp2.0\eventhub.deps.json
+C:\code\eventhub\bin\Debug\netcoreapp2.0\eventhub.runtimeconfig.json
+C:\code\eventhub\bin\Debug\netcoreapp2.0\eventhub.runtimeconfig.dev.json
+C:\code\eventhub\bin\Debug\netcoreapp2.0\eventhub.dll
+C:\code\eventhub\bin\Debug\netcoreapp2.0\eventhub.pdb
+C:\code\eventhub\obj\Debug\netcoreapp2.0\eventhub.csproj.CoreCompileInputs.cache
+C:\code\eventhub\obj\Debug\netcoreapp2.0\eventhub.AssemblyInfoInputs.cache
+C:\code\eventhub\obj\Debug\netcoreapp2.0\eventhub.AssemblyInfo.cs
+C:\code\eventhub\obj\Debug\netcoreapp2.0\eventhub.dll
+C:\code\eventhub\obj\Debug\netcoreapp2.0\eventhub.pdb
